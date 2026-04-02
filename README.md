@@ -40,5 +40,5 @@ GlowUP is an online fashion e-commerce platform designed for users in the Middle
 ### Checkout:
 - Users proceed to payment
 - Choose payment method (e.g., cash, card, Apple Pay)
-### Order Completion
+### Order Completion:
 - Order is processed and stored in the database
